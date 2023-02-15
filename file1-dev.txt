@@ -1,1 +1,7 @@
 Practice file for DEV branch. 
+
+Current branches:
+main
+    DEV
+    X_feature1
+    X_feature2
